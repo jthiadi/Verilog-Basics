@@ -1,6 +1,7 @@
 # Verilog-Basics
 
 This repository contains a collection of **digital logic design labs implemented in Verilog HDL** and developed using **Xilinx Vivado**.  
+
 The projects progress from **basic combinational logic and arithmetic units** through **sequential logic, FSM design, Design-for-Testability (DFT), and full FPGA-based systems**.
 
 All designs were **simulated using Vivado Simulator**, and FPGA-oriented designs were synthesized and deployed on hardware using Vivado.
